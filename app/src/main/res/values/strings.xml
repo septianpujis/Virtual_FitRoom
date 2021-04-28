@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="picture">Gambar</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">Butuh \'Camera Permission\'.</string>
+    <string name="camera_error">Perangkat ini tidak didukung Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+
+    <string name="neck">Leher</string>
+    <string name="r_shoulder">Bahu Kanan</string>
+    <string name="r_elbow">Sikut Kanan</string>
+    <string name="l_shoulder">Bahu Kiri</string>
+    <string name="l_elbow">Sikut Kiri</string>
+    <string name="l_wrist">Telapak Kiri</string>
+    <string name="r_wrist">Telapak Kanan</string>
+    <string name="r_hip">Panggul Kanan</string>
+    <string name="r_knee">Lutut Kanan</string>
+    <string name="r_ankle">Angkle Kanan</string>
+    <string name="l_hip">Panggul Kiri</string>
+    <string name="l_knee">Lutut Kiri</string>
+    <string name="l_ankle">Angkle Kiri</string>
+    <string name="background">Background</string>
+    <string name="top">kepala</string>
+    <string name="kosong">0, 0</string>
+    <string name="waktuproses">CostTime :</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="xy">(x, y)</string>
+    <string name="quit">Keluar</string>
+    <string name="about">Tentang</string>
+    <string name="tabel_baju">Tabel Ukuran Pakaian</string>
+    <string name="output_image">Gambar Keluar dari sini</string>
+    <string name="pilih_gambar">Pilih Gambar dari Galeri</string>
+    <string name="menu_utama">Menu Utama</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="rek_kemeja">Rekomendasi Kemeja</string>
+    <string name="rek_polo">Rekomendasi Polo</string>
+    <string name="lebar_pinggul">Lebar Pinggul</string>
+    <string name="panjang_badan">Panjang badan</string>
+    <string name="lebar_badan">Lebar Badan</string>
+    <string name="size_s">S</string>
+    <string name="size_m">M</string>
+    <string name="size_l">L</string>
+    <string name="size_xl">XL</string>
+    <string name="size_xxl">XXL</string>
+    <string name="size_xxxl">XXXL</string>
+    <string name="size_non">-</string>
+    <string name="centimeter">cm</string>
+    <string name="px">px</string>
+</resources>
